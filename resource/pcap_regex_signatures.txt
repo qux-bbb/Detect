@@ -1,0 +1,27 @@
+# exe login
+{"id":1,"jsonrpc":"2\.0","method":"login","params":{"login":".+?","pass":".+?","agent":".+?"}}
+{"method":\s*"login",\s*"params":\s*{"login":\s*".+?",\s*"pass":\s*".+?",\s*"agent":\s*".+?"},\s*"id":\s*1}
+
+# exe job
+{"jsonrpc":"2\.0","method":"job","params":{"blob":".+?","job_id":".+?","target":".+?".*?}}
+{"jsonrpc":"2\.0","method":"job","params":{"blob":".+?","target":".+?","job_id":".+?","time_to_live":5},"error":null}
+
+# exe submit login
+{"id":\d+,"jsonrpc":"2\.0","result":{"id":".+?","job":{"blob":".+?","job_id":".+?","target":".+?".*?},"extensions":\[".+?"\],"status":"OK"}}
+{"id":\d+,"jsonrpc":"2\.0","result":{"id":".+?","job":{"blob":".+?","job_id":".+?","target":".+?".*?},"status":"OK"}}
+{"jsonrpc":"2\.0","result":{"job":{"blob":".+?","target":".+?","job_id":".+?","time_to_live":5},"status":"OK","id":".+?"},"id":\d+,"error":null}
+{"id":1,"jsonrpc":"2\.0","error":null,"result":{"id":".+?","job":{"blob":".+?","job_id":".+?","target":".+?"},"status":"OK"}}
+
+# exe keepalive request
+{"id":\d+,"jsonrpc":"2\.0","method":"keepalived","params":{"id":".+?"}}
+
+# exe keepalive response
+{"id":\d+,"jsonrpc":"2\.0","error":null,"result":{"status":"KEEPALIVED"}}
+
+# exe result submit c2s
+{"id":\d+,"jsonrpc":"2\.0","method":"submit","params":{"id":".+?","job_id":".+?","nonce":".+?","result":".+?"}}
+{"method":\s*"submit",\s*"params":\s*{"id":\s*".+?",\s*"job_id":\s*".+?",\s*"nonce":\s*".+?",\s*"result":\s*".+?"},\s*"id":\d+}
+
+# exe result s2c
+{"id":\d+,"jsonrpc":"2\.0","error":null,"result":{"status":"OK"}
+{"jsonrpc":"2\.0","result":{"status":"OK"},"id":\d+,"error":null}

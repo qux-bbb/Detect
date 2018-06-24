@@ -1,0 +1,126 @@
+# 地址种类：提供服务、恶意文件下载、矿池
+
+# coinhive
+ws001.coinhive.com:217.182.164.14
+ws002.coinhive.com:217.182.164.14
+ws003.coinhive.com:37.187.165.17
+ws004.coinhive.com:37.187.165.17
+ws005.coinhive.com:37.187.165.41
+ws006.coinhive.com:37.187.165.41
+ws007.coinhive.com:37.187.165.207
+ws008.coinhive.com:37.187.165.207
+ws009.coinhive.com:37.187.165.210
+ws010.coinhive.com:37.187.165.210
+ws011.coinhive.com:37.187.166.108
+ws012.coinhive.com:37.187.166.108
+ws013.coinhive.com:37.187.167.21
+ws014.coinhive.com:37.187.167.21
+ws015.coinhive.com:37.187.167.30
+ws016.coinhive.com:37.187.167.30
+ws017.coinhive.com:37.187.167.36
+ws018.coinhive.com:37.187.167.36
+ws019.coinhive.com:37.187.167.47
+ws020.coinhive.com:37.187.167.47
+ws021.coinhive.com:37.187.167.69
+ws022.coinhive.com:37.187.167.69
+ws023.coinhive.com:37.187.167.70
+ws024.coinhive.com:37.187.167.70
+ws025.coinhive.com:37.187.167.72
+ws026.coinhive.com:37.187.167.72
+ws027.coinhive.com:37.187.167.83
+ws028.coinhive.com:37.187.167.83
+ws029.coinhive.com:217.182.165.105
+ws030.coinhive.com:217.182.165.105
+ws031.coinhive.com:217.182.165.140
+ws032.coinhive.com:217.182.165.140
+
+# mineralt
+aster18cdn.nl:104.18.55.211
+play.istlandoll.com:104.18.49.70
+
+# nablabee
+cdn.nablabee.com:51.255.174.225
+miner.nablabee.com:54.38.240.179
+
+# WannaMine
+stafftest.spdns.eu:211.98.70.227
+stafftest.firewall-gateway.com:
+
+# 比特票
+btv.vvpool.com:116.211.169.162
+
+# Webfreer
+sea.wafflepool.com:37.48.65.149
+
+# JbossMiner
+swb.one:
+u.swb.one:45.63.17.78
+xmr.enjoytopic.tk:185.199.108.153
+emsisoft.enjoytopic.tk:211.98.70.227
+pool.supportxmr.com:45.125.194.18
+pool.monero.hashvault.pro:139.99.9.133
+enjoytopic.esy.es:
+d1ebv77j9rbkp6.enjoytopic.com:
+
+# NSASrvanyMinner
+minero.posthash.org:61.216.5.103
+note.posthash.org:192.169.143.86
+note1.posthash.org:210.16.180.101
+
+# From MinerBlock
+load.jsecoin.com:35.190.24.124
+d3iz6lralvg77g.cloudfront.net:54.230.191.88
+harvest.surge.sh:138.197.235.123
+cfceu.duckdns.org:139.162.223.125
+gustaver.ddns.net:185.170.115.65
+cryptown.netlify.com:54.250.174.92
+cfcs1.duckdns.org:172.104.153.105
+worker.salon.com:151.101.41.167
+refresh-js.bitbucket.io:104.192.143.11
+fresh-js.bitbucket.io:104.192.143.12
+webwidgetz.duckdns.org:172.104.21.26
+cfcd.duckdns.org:172.104.21.26
+cdn.adless.io:104.31.70.183
+may-js.github.io:185.199.111.153
+bauersagtnein.myeffect.net:185.170.115.65
+carry.myeffect.net:185.170.115.65
+red-js.github.io:185.199.109.153
+mxcdn1.now.sh:13.56.48.87
+mxcdn2.now.sh:13.56.48.87
+npcdn1.now.sh:13.56.48.87
+sxcdn02.now.sh:13.56.48.87
+sxcdn3.now.sh:13.56.48.87
+sxcdn4.now.sh:13.56.48.87
+sxcdn6.now.sh:13.56.48.87
+thelifeisbinary.netlify.com:54.250.174.92
+thelifeisbinary.ddns.net:185.170.115.65
+blue-js.github.io:185.199.108.153
+black-js.github.io:185.199.108.153
+one-jj.github.io:185.199.110.153
+two-jj.github.io:185.199.109.153
+three-jj.github.io:185.199.108.153
+play.video.estream.nu:54.36.177.18
+video.streaming.estream.to:54.36.177.18
+chainblock.science:95.211.214.4
+hodling.faith:95.211.228.14
+greenindex.dynamic-dns.net:103.102.44.182
+
+# other
+www.imhvlhaelvvbrq.ru:144.76.68.4
+silimbompom.com:5.9.136.118
+etn-eu2.nanopool.org:149.202.42.174
+usa.cetipool.com:
+monero.cetipool.com:
+work.cetipool.com:
+xmr.prohash.net:138.201.206.47
+pool.minexmr.com:37.59.43.136
+xmr.pool.minergate.com:176.9.147.178
+mine.ppxxmr.com:222.187.232.9
+get.bi-chi.com:211.98.70.227
+xmr.crypto-pool.fr:163.172.204.213
+51wakuang.net:
+www.51yingshi.net:
+dx.777craft.com:211.98.70.227
+www.api2.hjbkfwejhkfbj2334f.pw:
+pool.minemonero.pro:139.99.9.133
+linuxa.club:211.98.70.227

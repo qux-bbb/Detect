@@ -1,0 +1,21 @@
+# remote coinhive
+<script\s+src="https://authedmine\.com/lib/authedmine\.min\.js"></script>
+<script\s+src="https://coinhive\.com/lib/coinhive\.min\.js"></script>
+
+
+# local coinhive
+var\s+\S+\s*=\s*new\s+CoinHive\.Anonymous\([\'\"].{32}[\'\"].*\);
+var\s+\S+\s*=\s*new\s+CoinHive\.User\([\'\"].{32}[\'\"]\s*,\s*[\'\"].+[\'\"].*\);
+var\s+\S+\s*=\s*new\s+CoinHive\.Token\([\'\"].*[\'\"]\s*,\s*[\'\"].+[\'\"].*\);
+
+
+# signature in coinhive js file
+CoinHive.CRYPTONIGHT_WORKER_BLOB=CoinHive.Res
+
+
+# remote mineralt
+<script\s+async\s+class=".*"\s+src="https://aster18cdn\.nl/bootstrap\.min\.js"></script>
+<iframe\s+src="https://aster18cdn\.nl/ecart\.html\?bdata=.*"\s+style="display:none;"></iframe>
+
+<script\s+async\s+class=".*"\s+src="https://play\.istlandoll\.com/bootstrap\.min\.js"></script>
+<iframe\s+src="https://play\.istlandoll\.com/ecart\.html\?bdata=.*"\s+style="display:none;"></iframe>
